@@ -378,7 +378,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
-- <img src="https://muapi.ai/favicon.ico" height="14"/> [MuAPI](https://github.com/SamurAIGPT/muapi-mcp-server) - Hosted MCP server providing access to 100+ generative AI models (FLUX, Midjourney, Veo3, Kling, Suno, HunyuanVideo) for image, video, and audio generation. No local install — connect with one URL.
+- <img src="https://muapi.ai/favicon.ico" height="14"/> [MuAPI](https://github.com/SamurAIGPT/muapi-cli) - Generative media MCP server with 19 tools for image generation (Flux, Midjourney, GPT-4o), video generation (Veo3, Kling, Wan, Runway), audio (Suno), and enhancements (upscale, face swap). Remote endpoint at mcp.muapi.ai — no install required.
 ## 💻 <a name="development-tools"></a>Development Tools
 
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
